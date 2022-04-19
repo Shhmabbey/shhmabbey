@@ -1,6 +1,9 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Tz0uJZLiwex9QLJ7ie/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="250" alt="female at computer"/>
+</div>
+<div id="bio" align="center" >
+  <h1>Hi, I'm Abigail.</h1>
 </div>
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/san-francisco-software-engineer/" target="_blank" >
@@ -9,17 +12,26 @@
 </div>
 
 
-<!--
-**Shhmabbey/shhmabbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### About Me:
+I'm a software engineer, located in San Francisco.
+- 👋 Open to job opportunities
+- 🌱 Learning React Hooks and Typescript
+- 💡 Looking to collaborate on projects
+- 💬 Ask me about what I'm working on
+- 😄 Pronouns: she/her/hers
 
-Here are some ideas to get you started:
+---
+### Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
