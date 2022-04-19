@@ -14,7 +14,7 @@
 
 ---
 ### About Me:
-I'm a software engineer, located in San Francisco.
+I'm a fullstack developer, located in San Francisco.
 - 👋 Open to job opportunities
 - 🌱 Learning React Hooks and Typescript
 - 💡 Looking to collaborate on projects
@@ -40,3 +40,5 @@ I'm a software engineer, located in San Francisco.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shhmabbey&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shhmabbey&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<img src="https://komarev.com/ghpvc/?username=shhmabbey&style=flat-square&color=blue" alt=""/>
