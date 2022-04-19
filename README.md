@@ -1,4 +1,13 @@
-### Hi there 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Tz0uJZLiwex9QLJ7ie/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center" >
+  <a href="https://www.linkedin.com/in/san-francisco-software-engineer/" target="_blank" >
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 <!--
 **Shhmabbey/shhmabbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
