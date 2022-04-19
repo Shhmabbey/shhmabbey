@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="250" alt="female at computer"/>
+  <img src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="150" alt="female at computer"/>
 </div>
 <div id="bio" align="center" >
   <h1>Hi, I'm Abigail.</h1>
