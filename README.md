@@ -36,6 +36,12 @@ I'm a fullstack developer, located in San Francisco.
 </div>
 
 ---
+### Projects:
+* [Mango Music](https://github.com/MangoMusicMedia/mango-music)
+* [Bold](https://github.com/Shhmabbey/bold)
+* [Bob the Blob](https://github.com/Shhmabbey/bob-the-blob)
+
+---
 ### My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shhmabbey&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/>
