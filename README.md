@@ -4,13 +4,10 @@
 </div>
 <div id="bio" align="center" >
   <h1>Hi, I'm Abigail.</h1>
-</div>
-<div id="badges" align="center" >
-  <a href="https://www.linkedin.com/in/san-francisco-software-engineer/" target="_blank" >
+   <a href="https://www.linkedin.com/in/san-francisco-software-engineer/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 
 ---
 ### About Me:
