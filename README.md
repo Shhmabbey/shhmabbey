@@ -58,9 +58,9 @@ I'm a full stack developer, located in San Francisco.
 
 ---
 ### Projects:
-* [Mango Music](https://github.com/MangoMusicMedia/mango-music)
-* [Bold](https://github.com/Shhmabbey/bold)
-* [Bob the Blob](https://github.com/Shhmabbey/bob-the-blob)
+* [Mango Music](https://github.com/MangoMusicMedia/mango-music){:target="_blank"}
+* [Bold](https://github.com/Shhmabbey/bold){:target="_blank"}
+* [Bob the Blob](https://github.com/Shhmabbey/bob-the-blob){:target="_blank"}
 
 ---
 ### My Github Profile Stats:
