@@ -58,9 +58,11 @@ I'm a full stack developer, located in San Francisco.
 
 ---
 ### Projects:
-🥭 [Mango Music](https://github.com/MangoMusicMedia/mango-music)
-💻 [Bold](https://github.com/Shhmabbey/bold)
-🐦 [Bob the Blob](https://github.com/Shhmabbey/bob-the-blob)
+🥭 [Mango Music](https://github.com/MangoMusicMedia/mango-music) <br/> Music centric social media -build with React, MongoDB, Mongoose, Node.js
+<br/>
+💻 [Bold](https://github.com/Shhmabbey/bold) <br/> E-commerce site - built with React, Redux, Ruby on Rails
+<br/>
+🐦 [Bob the Blob](https://github.com/Shhmabbey/bob-the-blob) <br/> Platform game -built with Vanilla JavaScript and Canvas
 
 ---
 ### My Github Profile Stats:
