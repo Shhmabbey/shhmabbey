@@ -58,7 +58,7 @@ I'm a full stack developer, located in San Francisco.
 
 ---
 ### Projects:
-🥭 [Mango Music](https://github.com/MangoMusicMedia/mango-music) <br/> Music centric social media -build with React, MongoDB, Mongoose, Node.js
+🥭 [Mango Music](https://github.com/MangoMusicMedia/mango-music) <br/> Audiophile-centric social media -build with React, MongoDB, Mongoose, Node.js
 <br/>
 💻 [Bold](https://github.com/Shhmabbey/bold) <br/> E-commerce site - built with React, Redux, Ruby on Rails
 <br/>
