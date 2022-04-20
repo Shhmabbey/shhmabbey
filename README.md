@@ -5,7 +5,16 @@
 <div id="bio" align="center" >
   <h1>Hi, I'm Abigail.</h1>
    <a href="https://www.linkedin.com/in/san-francisco-software-engineer/" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img height="26" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:abhernndz@gmail.com" target="_blank" >
+    <img height="26px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://angel.co/u/abbey-hernandez" target="_blank" >
+    <img height="26px" src="https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
+  </a>
+    <a href="https://developers.google.com/profile/u/abigail-hernandez" target="_blank" >
+    <img height="26px" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Badge"/>
   </a>
 </div>
 
