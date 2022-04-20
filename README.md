@@ -11,7 +11,7 @@
 
 ---
 ### About Me:
-I'm a fullstack developer, located in San Francisco.
+I'm a full stack developer, located in San Francisco.
 - 👋 Open to job opportunities
 - 🌱 Learning React Hooks and Typescript
 - 💡 Looking to collaborate on projects
