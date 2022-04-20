@@ -16,9 +16,12 @@
   <a href="https://developers.google.com/profile/u/abigail-hernandez" target="_blank" >
     <img height="26px" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Badge"/>
   </a>
+</div>
+<div  id="bio" align="center" >
   <a href="https://shhmabbey.com" target="_blank" >
     <img height="26px" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge"/>
   </a>
+  <img height="26px" src="https://komarev.com/ghpvc/?username=shhmabbey&style=flat-square&color=blue" alt="Page views count"/>
 </div>
 
 ---
@@ -54,9 +57,9 @@ I'm a full stack developer, located in San Francisco.
 * [Bob the Blob](https://github.com/Shhmabbey/bob-the-blob)
 
 ---
-### My Stats:
+### My Github Profile Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shhmabbey&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shhmabbey&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-<img src="https://komarev.com/ghpvc/?username=shhmabbey&style=flat-square&color=blue" alt=""/>
+
