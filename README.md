@@ -90,8 +90,10 @@ I'm a full stack developer, located in San Francisco.
 
 ---
 ### My Github Profile Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shhmabbey&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shhmabbey&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+<div id="stats" align="center" >
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=shhmabbey&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D"/>
+  <p>  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhmabbey&layout=compact&theme=noctis_minimus"/>
+</div>
+
 
