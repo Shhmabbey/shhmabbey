@@ -58,11 +58,35 @@ I'm a full stack developer, located in San Francisco.
 
 ---
 ### Projects:
-🥭 [Mango Music](https://github.com/MangoMusicMedia/mango-music) <br/> Audiophile-centric social media -build with React, MongoDB, Mongoose, Node.js
-<br/>
-💻 [Bold](https://github.com/Shhmabbey/bold) <br/> E-commerce site - built with React, Redux, Ruby on Rails
-<br/>
-🐦 [Bob the Blob](https://github.com/Shhmabbey/bob-the-blob) <br/> Platform game -built with Vanilla JavaScript and Canvas
+<div  id="projects" align="center" >
+  <div>
+    <a href="https://github.com/Shhmabbey/bold" ><p>Bold</p></a>
+    <p>E-commerce site - built with React, Redux, Ruby on Rails</p>
+    <div>
+      <a href="https://github.com/Shhmabbey/bold" >
+        <img src="https://user-images.githubusercontent.com/50922953/166556099-f470c3d2-9b01-4550-a2a2-47532d8f5882.png" title="Bold" alt="Bold Demo" width="400" />
+      </a>
+    </div>
+  </div>
+  <div>
+    <a href="https://github.com/MangoMusicMedia/mango-music" ><img height="75" src="https://user-images.githubusercontent.com/50922953/166800929-7ec25aea-3ad2-47aa-9c51-834f167f3c88.png"></a>
+    <p>Audiophile-centric social media -build with React, MongoDB, Mongoose, Node.js</p>
+    <div>
+      <a href="https://github.com/MangoMusicMedia/mango-music" >
+        <img src="https://media.giphy.com/media/NQNXezhodDn4bZurss/giphy.gif" title="Mango Music" alt="Mango Music Demo" width="400"/>
+      </a>
+    </div>
+  </div>
+  <div>
+    <a href="https://github.com/Shhmabbey/bob-the-blob" ><img height="75" src="https://user-images.githubusercontent.com/50922953/166802722-80c40b7c-e754-4356-be6d-4712417bdcf2.png"><img height="40" src="https://user-images.githubusercontent.com/50922953/166802018-f5db5c7d-9e93-4fc1-963b-0615930eb6be.png"/></a>
+    <p>Platform game -built with Vanilla JavaScript and Canvas</p>
+    <div>
+      <a href="https://github.com/Shhmabbey/bob-the-blob" >
+        <img src="https://media.giphy.com/media/S4atcs1GmwSC3ITyYI/giphy.gif" title="Bob the Blob" alt="Bob the Blob Demo" width="300" />
+      </a>
+    </div>
+  </div>
+</div>
 
 ---
 ### My Github Profile Stats:
