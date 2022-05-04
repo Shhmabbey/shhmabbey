@@ -60,7 +60,7 @@ I'm a full stack developer, located in San Francisco.
 ### Projects:
 <div  id="projects" align="center" >
   <div>
-    <a href="https://github.com/Shhmabbey/bold" ><p>Bold</p></a>
+    <a href="https://github.com/Shhmabbey/bold" ><img height="75" src="https://user-images.githubusercontent.com/50922953/166812821-d4c7045d-435c-4c25-ae26-85e5dcd6eca6.png"/></a>
     <p>E-commerce site - built with React, Redux, Ruby on Rails</p>
     <div>
       <a href="https://github.com/Shhmabbey/bold" >
