@@ -78,7 +78,7 @@ I'm a full stack developer, located in San Francisco.
     </div>
   </div>
   <div>
-    <a href="https://github.com/Shhmabbey/bob-the-blob" ><img height="75" src="https://user-images.githubusercontent.com/50922953/166802722-80c40b7c-e754-4356-be6d-4712417bdcf2.png"><img height="40" src="https://user-images.githubusercontent.com/50922953/166802018-f5db5c7d-9e93-4fc1-963b-0615930eb6be.png"/></a>
+    <a href="https://github.com/Shhmabbey/bob-the-blob" ><img height="65" src="https://user-images.githubusercontent.com/50922953/166802722-80c40b7c-e754-4356-be6d-4712417bdcf2.png"><img height="40" src="https://user-images.githubusercontent.com/50922953/166802018-f5db5c7d-9e93-4fc1-963b-0615930eb6be.png"/></a>
     <p>Platform game -built with Vanilla JavaScript and Canvas</p>
     <div>
       <a href="https://github.com/Shhmabbey/bob-the-blob" >
