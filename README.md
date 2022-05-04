@@ -69,7 +69,7 @@
     <p>E-commerce site - built with React, Redux, Ruby on Rails</p>
     <div>
       <a href="https://github.com/Shhmabbey/bold" >
-        <img src="https://media.giphy.com/media/zgMPYYgZXuz7EKquJ2/giphy.gif" title="Bold" alt="Bold Demo" width="400" />
+        <img src="https://media.giphy.com/media/zgMPYYgZXuz7EKquJ2/giphy.gif" title="Bold" alt="Bold Demo" width="600" />
       </a>
     </div>
   </div>
@@ -78,7 +78,7 @@
     <p>Audiophile-centric social media -build with React, MongoDB, Mongoose, Node.js</p>
     <div>
       <a href="https://github.com/MangoMusicMedia/mango-music" >
-        <img src="https://media.giphy.com/media/NQNXezhodDn4bZurss/giphy.gif" title="Mango Music" alt="Mango Music Demo" width="400"/>
+        <img src="https://media.giphy.com/media/NQNXezhodDn4bZurss/giphy.gif" title="Mango Music" alt="Mango Music Demo" width="600"/>
       </a>
     </div>
   </div>
@@ -87,7 +87,7 @@
     <p>Platform game -built with Vanilla JavaScript and Canvas</p>
     <div>
       <a href="https://github.com/Shhmabbey/bob-the-blob" >
-        <img src="https://media.giphy.com/media/S4atcs1GmwSC3ITyYI/giphy.gif" title="Bob the Blob" alt="Bob the Blob Demo" width="300" />
+        <img src="https://media.giphy.com/media/S4atcs1GmwSC3ITyYI/giphy.gif" title="Bob the Blob" alt="Bob the Blob Demo" width="400" />
       </a>
     </div>
   </div>
