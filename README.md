@@ -1,10 +1,9 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="100" alt="female at computer"/>
 </div>
 <div id="bio" align="center" >
   <h1>Hi, I'm Abigail.</h1>
-    <div >
+  <div>
     <p>I'm a full stack developer, located in San Francisco.</p>
     <p>👋 Open to job opportunities</p>
     <p>💡 Looking to collaborate on projects</p>
@@ -95,6 +94,8 @@
 <br/>
 <div align="left" ><h1>My Github Profile Stats:</h1></div>
 <div id="stats" align="center" >
+  <img src="https://media.giphy.com/media/bDMI5DFOkFTq4FY8ii/giphy.gif"  alt="my commit history 2022"/>
+  <p></p>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=shhmabbey&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D"/>
   <p>  </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhmabbey&layout=compact&theme=noctis_minimus"/>
