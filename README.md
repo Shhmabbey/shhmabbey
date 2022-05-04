@@ -24,18 +24,23 @@
   <img height="26px" src="https://komarev.com/ghpvc/?username=shhmabbey&style=flat-square&color=blue" alt="Page views count"/>
 </div>
 
----
-### About Me:
-I'm a full stack developer, located in San Francisco.
-- 👋 Open to job opportunities
-- 🌱 Learning React Hooks and Typescript
-- 💡 Looking to collaborate on projects
-- 💬 Ask me about what I'm working on
-- 😄 Pronouns: she/her/hers
+<br/>
+<div align="left" ><h1>About Me:</h1></div>
+<div align="center">
+  <div >
+    <p>I'm a full stack developer, located in San Francisco.</p>
+    <p>👋 Open to job opportunities</p>
+    <p>💡 Looking to collaborate on projects</p>
+    <p>🌱 Learning React Hooks and Typescript</p>
+    <p>💬 Ask me about what I'm working on</p>
+    <p>😄 Pronouns: she/her/hers</p>
+  </div>
+  <div>
+</div>
 
----
-### Languages and Tools :
-<div>
+<br/>
+<div align="left" ><h1>Languages and Tools:</h1></div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
@@ -56,15 +61,15 @@ I'm a full stack developer, located in San Francisco.
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 </div>
 
----
-### Projects:
+<br/>
+<div align="left" ><h1>Projects:</h1></div>
 <div  id="projects" align="center" >
   <div>
     <a href="https://github.com/Shhmabbey/bold" ><img height="75" src="https://user-images.githubusercontent.com/50922953/166812821-d4c7045d-435c-4c25-ae26-85e5dcd6eca6.png"/></a>
     <p>E-commerce site - built with React, Redux, Ruby on Rails</p>
     <div>
       <a href="https://github.com/Shhmabbey/bold" >
-        <img src="https://user-images.githubusercontent.com/50922953/166556099-f470c3d2-9b01-4550-a2a2-47532d8f5882.png" title="Bold" alt="Bold Demo" width="400" />
+        <img src="https://media.giphy.com/media/zgMPYYgZXuz7EKquJ2/giphy.gif" title="Bold" alt="Bold Demo" width="400" />
       </a>
     </div>
   </div>
@@ -88,8 +93,8 @@ I'm a full stack developer, located in San Francisco.
   </div>
 </div>
 
----
-### My Github Profile Stats:
+<br/>
+<div align="left" ><h1>My Github Profile Stats:</h1></div>
 <div id="stats" align="center" >
   <img src="http://github-readme-streak-stats.herokuapp.com?user=shhmabbey&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D"/>
   <p>  </p>
