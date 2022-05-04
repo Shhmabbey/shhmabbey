@@ -94,7 +94,7 @@
 <br/>
 <div align="left" ><h1>My Github Profile Stats:</h1></div>
 <div id="stats" align="center" >
-  <img src="https://media.giphy.com/media/bDMI5DFOkFTq4FY8ii/giphy.gif"  alt="my commit history 2022"/>
+  <img width="700"src="https://media.giphy.com/media/bDMI5DFOkFTq4FY8ii/giphy.gif"  alt="my commit history 2022"/>
   <p></p>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=shhmabbey&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D"/>
   <p>  </p>
