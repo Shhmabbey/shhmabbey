@@ -4,6 +4,19 @@
 </div>
 <div id="bio" align="center" >
   <h1>Hi, I'm Abigail.</h1>
+    <div >
+    <p>I'm a full stack developer, located in San Francisco.</p>
+    <p>👋 Open to job opportunities</p>
+    <p>💡 Looking to collaborate on projects</p>
+    <p>🌱 Learning React Hooks and Typescript</p>
+    <p>💬 Ask me about what I'm working on</p>
+    <p>😄 Pronouns: she/her/hers</p>
+  </div>
+<br/>
+</div>
+<div align="center">
+  <div>
+</div>
    <a href="https://www.linkedin.com/in/san-francisco-software-engineer/" target="_blank" >
     <img height="26" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -22,20 +35,6 @@
     <img height="26px" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge"/>
   </a>
   <img height="26px" src="https://komarev.com/ghpvc/?username=shhmabbey&style=flat-square&color=blue" alt="Page views count"/>
-</div>
-
-<br/>
-<div align="left" ><h1>About Me:</h1></div>
-<div align="center">
-  <div >
-    <p>I'm a full stack developer, located in San Francisco.</p>
-    <p>👋 Open to job opportunities</p>
-    <p>💡 Looking to collaborate on projects</p>
-    <p>🌱 Learning React Hooks and Typescript</p>
-    <p>💬 Ask me about what I'm working on</p>
-    <p>😄 Pronouns: she/her/hers</p>
-  </div>
-  <div>
 </div>
 
 <br/>
