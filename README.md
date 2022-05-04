@@ -8,8 +8,6 @@
     <p>👋 Open to job opportunities</p>
     <p>💡 Looking to collaborate on projects</p>
     <p>🌱 Learning React Hooks and Typescript</p>
-    <p>💬 Ask me about what I'm working on</p>
-    <p>😄 Pronouns: she/her/hers</p>
   </div>
 <br/>
 </div>
