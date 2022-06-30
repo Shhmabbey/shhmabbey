@@ -28,9 +28,9 @@
   </a>
 </div>
 <div  id="bio" align="center" >
-  <a href="https://shhmabbey.com" target="_blank" >
+<!--   <a href="https://shhmabbey.com" target="_blank" >
     <img height="26px" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge"/>
-  </a>
+  </a> -->
   <img height="26px" src="https://komarev.com/ghpvc/?username=shhmabbey&style=flat-square&color=blue" alt="Page views count"/>
 </div>
 
