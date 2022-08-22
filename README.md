@@ -6,8 +6,6 @@
   <div>
     <p>I'm a full stack developer, located in San Francisco.</p>
     <p>👋 Open to job opportunities</p>
-    <p>💡 Looking to collaborate on projects</p>
-    <p>🌱 Learning React Hooks and Typescript</p>
   </div>
 <br/>
 </div>
