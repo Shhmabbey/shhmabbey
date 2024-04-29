@@ -5,7 +5,6 @@
   <h1>Hi, I'm Abigail.</h1>
   <div>
     <p>I'm a full stack developer, located in San Francisco.</p>
-    <p>👋 Open to job opportunities</p>
   </div>
 <br/>
 </div>
